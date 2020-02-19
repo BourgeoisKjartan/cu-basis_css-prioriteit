@@ -1,0 +1,15 @@
+body p {
+    color: red;
+}
+
+body > p {
+    color: blue;
+}
+
+body > div {
+    color: orange;
+}
+
+body div {
+    color:green;
+}
